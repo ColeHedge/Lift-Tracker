@@ -1,0 +1,14 @@
+body {
+	background: url(http://www.crossfitchalkbox.com/wp-content/uploads/pic6.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+h1 {
+	margin: 0;
+	color: white;
+	font-size: 4rem;
+	text-shadow: black 2px 2px;
+}

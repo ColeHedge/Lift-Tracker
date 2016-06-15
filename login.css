@@ -1,0 +1,14 @@
+legend, .input {
+	color: white;
+}
+
+.input {
+	text-shadow: black 2px 2px;
+}
+
+#error {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+

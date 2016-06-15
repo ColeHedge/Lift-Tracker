@@ -1,0 +1,36 @@
+#buttons {
+	clear: both;
+}
+
+#content {
+	height: 100%;
+	width: 100%;
+}
+
+#graph, #track {
+	display: none;
+}
+
+#graph {
+	width: 500px;
+	height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	clear: both;
+}
+
+#logout {
+	margin-top: 1.1em;
+	float: right;
+}
+
+.radio, .form-group {
+	color: white;
+}
+
+#welcome {
+	color: white;
+	font-size: 48pt;
+	float: left;
+	text-shadow: black 2px 2px;
+}
